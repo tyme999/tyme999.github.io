@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Apple ID注册</title>
+      <link href="/blog/Apple%20ID%E6%B3%A8%E5%86%8C/"/>
+      <url>/blog/Apple%20ID%E6%B3%A8%E5%86%8C/</url>
+      
+        <content type="html"><![CDATA[<!-- <div class="video-container">[up主专用，视频内嵌代码贴在这]</div> --><style>.video-container {    position: relative;    width: 100%;    padding-top: 56.25%; /* 16:9 aspect ratio (height/width = 9/16 * 100%) */}.video-container iframe {    position: absolute;    top: 0;    left: 0;    width: 100%;    height: 100%;}</style><h1 id="注册-Apple-ID-教程"><a href="#注册-Apple-ID-教程" class="headerlink" title="注册 Apple ID 教程"></a>注册 Apple ID 教程</h1><blockquote><p>以 iPadOS 18.4 为例，其他版本操作步骤基本相同</p></blockquote><h2 id="基础设置阶段"><a href="#基础设置阶段" class="headerlink" title="基础设置阶段"></a>基础设置阶段</h2><ol><li><p><label class="step">打开设置</label></p><ul><li>打开”设置”应用</li><li>向下滑动至”App”部分</li><li>找到”邮件&#x2F;通讯录”并点击进入</li></ul></li><li><p><label class="step">进入账户添加界面</label></p><ul><li>选择”邮件&#x2F;通讯录账户”</li><li>点击”添加账户”</li></ul></li><li><p><label class="step">开始创建账户</label></p><ul><li>选择第一个选项”iCloud”</li><li>点击”创建新的Apple账户”</li></ul></li></ol><h2 id="账户信息设置"><a href="#账户信息设置" class="headerlink" title="账户信息设置"></a>账户信息设置</h2><ol start="4"><li><p><label class="step">填写基本信息</label></p><ul><li>填写姓名（可选填）</li><li>选择出生日期（需满足成年要求）</li><li>点击”下一步”</li></ul></li><li><p><label class="step">设置邮箱</label></p><ul><li>选择”没有电子邮件”</li><li>点击”获取iCloud电子邮件地址”</li></ul></li><li><p><label class="step">完善账户信息</label></p><ul><li>输入邮箱前缀（确保未被使用）</li><li>设置安全密码</li><li>绑定手机号（支持+86中国手机号）<blockquote><p><strong>注意</strong>：如遇手机号被封控，建议等待几天后重试</p></blockquote></li></ul></li></ol><h2 id="地区设置"><a href="#地区设置" class="headerlink" title="地区设置"></a>地区设置</h2><ol start="7"><li><p><label class="step">登录账户</label></p><ul><li>打开浏览器访问 account.apple.com</li><li>使用新创建的 Apple ID 登录</li></ul></li><li><p><label class="step">进入地区设置</label></p><ul><li>点击左侧”个人信息”</li><li>选择”国家和地区”</li><li>点击”更改国家和地区”（蓝色字体）</li></ul></li><li><p><label class="step">选择目标地区</label></p><ul><li>在列表中选择想要更改的国家或地区</li></ul></li></ol><h2 id="地址信息配置"><a href="#地址信息配置" class="headerlink" title="地址信息配置"></a>地址信息配置</h2><ol start="10"><li><p><label class="step">填写账单地址</label></p><ul><li>填写完整的账单地址信息</li><li>确保以下信息与所选国家&#x2F;地区匹配：<ul><li>邮政编码</li><li>省份&#x2F;州</li><li>电话号码格式<blockquote><p><strong>示例</strong>：选择美国地区时，需填写美国格式的邮政编码（需与所选州匹配）和电话号码</p></blockquote></li></ul></li></ul></li><li><p><label class="step">设置配送地址</label></p><ul><li>可直接复制账单地址信息</li><li>确保地址格式正确</li></ul></li></ol><h2 id="完成设置"><a href="#完成设置" class="headerlink" title="完成设置"></a>完成设置</h2><ol start="12"><li><label class="step">开始使用</label><ul><li>完成所有设置后</li><li>现可在 App Store 下载对应地区的应用程序</li></ul></li></ol><style>.step {    /* background-color: #f0f0f0; */    padding: 2px 6px;    border-radius: 4px;    font-weight: bold;}</style>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
